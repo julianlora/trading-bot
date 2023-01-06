@@ -2,7 +2,7 @@
 This is a personal project to build a pyhton crypto trading bot with the capabilities of backtesting a strategy and selecting the most optimal configurations to work as signals for buying and selling the desired currency
 
 # Packages
-We use the backtesting.py package that allows us to backtest and plot a given dataframe.
+We use the backtesting.py package that allows us to backtest and plot a given dataframe. Its source code has been modified to allow certain features that crpyto trading requires but forex doesn't, such as trading with less than a unit of the currency, and leverage calculations.
 
 # Dataframe
 The dataframe is obtained from the Binance API, which grants us historical data from the selected dates. A csv file is created for further backtesting, to avoid the download of huge chunks of data in every backtest.
