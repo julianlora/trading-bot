@@ -1,3 +1,10 @@
+# Screens
+![trading bot 2](https://github.com/julianlora/trading-bot/assets/120677363/a6375a94-c177-4434-a87a-38167d2c52ce)
+
+![stats](https://github.com/julianlora/trading-bot/assets/120677363/dbd1e27d-0d1c-4e4b-a68f-3ef70d95acee)
+
+![WhatsApp Image 2024-03-08 at 12 21 13](https://github.com/julianlora/trading-bot/assets/120677363/d2e7efed-1fb6-4c3b-b090-42d7e7dfb2bf)
+
 # Trading-bot
 This is a personal project to build a python crypto trading bot capable of backtesting a strategy and selecting the most optimal configurations to work as signals for buying and selling the desired currency
 
